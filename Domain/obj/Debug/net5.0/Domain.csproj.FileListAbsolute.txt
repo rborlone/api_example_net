@@ -1,0 +1,12 @@
+C:\clo\Git\ApiGrup\ApiGrup\Domain\bin\Debug\net5.0\ApiGrup.Domain.deps.json
+C:\clo\Git\ApiGrup\ApiGrup\Domain\bin\Debug\net5.0\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Domain\bin\Debug\net5.0\ref\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Domain\bin\Debug\net5.0\ApiGrup.Domain.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\ref\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Domain\obj\Debug\net5.0\ApiGrup.Domain.pdb

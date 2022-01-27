@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\clopez-ext\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\clopez-ext\\.nuget\\packages"
+    ]
+  }
+}

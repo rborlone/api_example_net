@@ -1,0 +1,17 @@
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Application.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Domain.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Infrastructure.deps.json
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Infrastructure.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ref\ApiGrup.Infrastructure.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Infrastructure.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\bin\Debug\net5.0\ApiGrup.Application.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\ApiGrup.Infrastructure.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\ref\ApiGrup.Infrastructure.dll
+C:\clo\Git\ApiGrup\ApiGrup\Infrastructure\obj\Debug\net5.0\ApiGrup.Infrastructure.pdb

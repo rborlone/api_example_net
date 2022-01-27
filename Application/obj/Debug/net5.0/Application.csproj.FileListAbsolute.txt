@@ -1,0 +1,15 @@
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ApiGrup.Application.deps.json
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ApiGrup.Application.dll
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ref\ApiGrup.Application.dll
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ApiGrup.Application.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ApiGrup.Domain.dll
+C:\clo\Git\ApiGrup\ApiGrup\Application\bin\Debug\net5.0\ApiGrup.Domain.pdb
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\ApiGrup.Application.dll
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\ref\ApiGrup.Application.dll
+C:\clo\Git\ApiGrup\ApiGrup\Application\obj\Debug\net5.0\ApiGrup.Application.pdb
